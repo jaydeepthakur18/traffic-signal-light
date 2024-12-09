@@ -1,0 +1,29 @@
+body{
+    background-color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.countainer{
+    background-color: black;
+    padding: 35px;
+    border-radius: 15px;
+    margin-top: 15px;
+}
+.sig{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(128, 128, 128);
+    border-radius: 50%;
+    margin: 30px;
+}
+.red:hover{
+    background-color: rgb(219, 15, 15);
+
+}
+.yellow:hover{
+    background-color: rgb(213, 143, 21);
+}
+.green:hover{
+    background-color: green;
+}
